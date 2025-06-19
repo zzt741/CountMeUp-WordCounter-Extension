@@ -3,36 +3,36 @@
     "message": "输入所需文字"
   },
   "_words": {
-    "message": "话"
+    "message": "单词"
   },
   "_characters": {
-    "message": "性格"
+    "message": "字符"
   },
   "_charactersWithoutSpaces": {
-    "message": "没有空格的字符"
+    "message": "非空格字符"
   },
   "_popup": {
-    "message": "弹出"
+    "message": "弹窗"
   },
   "_sideMenuLeft": {
-    "message": "左侧左侧菜单"
+    "message": "左侧菜单"
   },
   "_sideMenuRight": {
     "message": "右侧菜单"
   },
   "_openIn": {
-    "message": "打开"
+    "message": "打开方式"
   },
   "_word": {
-    "message": "字"
+    "message": "单词"
   },
   "_character": {
     "message": "字符"
   },
   "extDescription": {
-    "message": "文字和文字计数器"
+    "message": "单词和字符计数器"
   },
   "extName": {
-    "message": "Count me up - 文字和文字计数器"
+    "message": "Count me up - 单词和字符计数器"
   }
 }
